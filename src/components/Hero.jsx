@@ -70,7 +70,7 @@ export default function Hero() {
             <div className="bg-white rounded-xl border border-brand-border shadow-card p-3">
               <div className="overflow-hidden rounded-lg aspect-[4/3] bg-brand-surface relative">
                 <img
-                  src="/assets/shop/owner-with-customers.jpeg"
+                  src="./assets/shop/owner-with-customers.jpeg"
                   alt="Subha Patar assisting customers at the service counter of Subho Mobile Repairing"
                   className="w-full h-full object-cover object-top"
                   loading="eager"

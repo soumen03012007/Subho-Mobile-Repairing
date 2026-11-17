@@ -98,7 +98,7 @@ export const GALLERY_ITEMS = [
     id: 1,
     title: "Subho Mobile Repairing Shopfront",
     category: "Shop & Workshop",
-    image: "/assets/shop/shop-front.jpeg",
+    image: "./assets/shop/shop-front.jpeg",
     description: "Exterior view of Subho Mobile Repairing shop counter and display in Asansol.",
     tag: "Shopfront"
   },
@@ -106,7 +106,7 @@ export const GALLERY_ITEMS = [
     id: 2,
     title: "Owner Subha Patar Assisting Customers",
     category: "Shop & Workshop",
-    image: "/assets/shop/owner-with-customers.jpeg",
+    image: "./assets/shop/owner-with-customers.jpeg",
     description: "Subha Patar consulting directly with customers at the shop service counter.",
     tag: "Owner & Counter"
   },
@@ -114,7 +114,7 @@ export const GALLERY_ITEMS = [
     id: 3,
     title: "Official Shop Signboard",
     category: "Shop & Workshop",
-    image: "/assets/branding/shop-banner.jpeg",
+    image: "./assets/branding/shop-banner.jpeg",
     description: "Shop signboard displaying multi-brand smartphone repair and direct contact number.",
     tag: "Signboard"
   },
@@ -122,7 +122,7 @@ export const GALLERY_ITEMS = [
     id: 4,
     title: "iPhone Disassembly on Workbench",
     category: "Repair Process",
-    image: "/assets/repairs/iphone-disassembly-repair.jpeg",
+    image: "./assets/repairs/iphone-disassembly-repair.jpeg",
     description: "Internal disassembly, battery inspection, and motherboard check on technician repair mat.",
     tag: "Hardware Repair"
   },
@@ -130,7 +130,7 @@ export const GALLERY_ITEMS = [
     id: 5,
     title: "Curved Display Adhesive Curing",
     category: "Repair Process",
-    image: "/assets/repairs/curved-screen-curing.jpeg",
+    image: "./assets/repairs/curved-screen-curing.jpeg",
     description: "Precision clamping bands applied to ensure seamless edge-to-edge adhesion on curved displays.",
     tag: "Display Curing"
   },
@@ -138,7 +138,7 @@ export const GALLERY_ITEMS = [
     id: 6,
     title: "CMF Phone 1 Screen Replacement",
     category: "Repair Process",
-    image: "/assets/repairs/cmf-screen-curing.jpeg",
+    image: "./assets/repairs/cmf-screen-curing.jpeg",
     description: "Nothing CMF Phone 1 new screen installation and curing on the workbench.",
     tag: "Screen Replacement"
   },
@@ -146,7 +146,7 @@ export const GALLERY_ITEMS = [
     id: 7,
     title: "iPhone Boot & Screen Display Test",
     category: "Repair Process",
-    image: "/assets/repairs/iphone-screen-testing.jpeg",
+    image: "./assets/repairs/iphone-screen-testing.jpeg",
     description: "Testing display boot, brightness, and color calibration immediately after screen fitting.",
     tag: "Testing"
   },
@@ -154,7 +154,7 @@ export const GALLERY_ITEMS = [
     id: 8,
     title: "Restored iPhone 11 Pro Midnight Green",
     category: "Completed Work",
-    image: "/assets/phones/iphone-11pro-green.jpeg",
+    image: "./assets/phones/iphone-11pro-green.jpeg",
     description: "Fully assembled and restored iPhone 11 Pro ready for customer delivery.",
     tag: "Restored Device"
   },
@@ -162,7 +162,7 @@ export const GALLERY_ITEMS = [
     id: 9,
     title: "Restored Curved Display Phone",
     category: "Completed Work",
-    image: "/assets/phones/curved-display-restored.jpeg",
+    image: "./assets/phones/curved-display-restored.jpeg",
     description: "Smartphone powered on showing clean, clear screen output without lines or blemishes.",
     tag: "Completed"
   },
@@ -170,7 +170,7 @@ export const GALLERY_ITEMS = [
     id: 10,
     title: "Motorola Screen Fracture Diagnosis",
     category: "Repair Process",
-    image: "/assets/repairs/motorola-broken-screen.jpeg",
+    image: "./assets/repairs/motorola-broken-screen.jpeg",
     description: "Inspection of screen fracture with severe vertical color line damage.",
     tag: "Diagnosis"
   },
@@ -178,7 +178,7 @@ export const GALLERY_ITEMS = [
     id: 11,
     title: "Broken Screen with Vertical Stripe",
     category: "Repair Process",
-    image: "/assets/repairs/broken-screen-vertical-stripe.jpeg",
+    image: "./assets/repairs/broken-screen-vertical-stripe.jpeg",
     description: "Damaged panel brought in for replacement after impact crack caused bright white display lines.",
     tag: "Diagnosis"
   },
@@ -186,7 +186,7 @@ export const GALLERY_ITEMS = [
     id: 12,
     title: "iPhone Rear Housing Restoration",
     category: "Completed Work",
-    image: "/assets/phones/iphone-back-restored.jpeg",
+    image: "./assets/phones/iphone-back-restored.jpeg",
     description: "Restored rear glass and frame assembly on the workbench.",
     tag: "Housing"
   },
@@ -194,7 +194,7 @@ export const GALLERY_ITEMS = [
     id: 13,
     title: "Display Scanline Fault Inspection",
     category: "Repair Process",
-    image: "/assets/repairs/display-flicker-scanlines.jpeg",
+    image: "./assets/repairs/display-flicker-scanlines.jpeg",
     description: "Diagnosing horizontal scanline flicker caused by ribbon cable strain.",
     tag: "Diagnosis"
   },
@@ -202,7 +202,7 @@ export const GALLERY_ITEMS = [
     id: 14,
     title: "Realme Smartphone Back Panel Inspection",
     category: "Completed Work",
-    image: "/assets/phones/realme-phone-back.jpeg",
+    image: "./assets/phones/realme-phone-back.jpeg",
     description: "Clean rear inspection and camera bezel check following maintenance.",
     tag: "Device Care"
   }
@@ -213,21 +213,21 @@ export const VIDEO_SHOWCASE = [
     id: "video-1",
     title: "Vivo V27 Curved Screen Replacement",
     description: "Replacing a completely shattered screen with a new curved AMOLED display, checked on the workbench.",
-    src: "/assets/videos/vivo-screen-replacement.mp4",
+    src: "./assets/videos/vivo-screen-replacement.mp4",
     badge: "Screen Replacement"
   },
   {
     id: "video-2",
     title: "iPhone Touch & Keypad Verification",
     description: "Testing touchscreen sensitivity, swipe accuracy, and emergency dialer response before closing the device.",
-    src: "/assets/videos/iphone-touch-testing.mp4",
+    src: "./assets/videos/iphone-touch-testing.mp4",
     badge: "Quality Testing"
   },
   {
     id: "video-3",
     title: "Realme 10 Pro+ Curved Display & Optical Unlock",
     description: "Verifying touch sensitivity, pattern unlocking, and optical in-display sensor response after display fitting.",
-    src: "/assets/videos/realme-touch-testing.mp4",
+    src: "./assets/videos/realme-touch-testing.mp4",
     badge: "Touch & Sensor Check"
   }
 ];

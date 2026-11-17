@@ -87,7 +87,7 @@ export default function About() {
             {/* Real Shopfront Photo */}
             <div className="rounded-xl border border-brand-border overflow-hidden bg-brand-surface shadow-card">
               <img
-                src="/assets/shop/shop-front.jpeg"
+                src="./assets/shop/shop-front.jpeg"
                 alt="Subho Mobile Repairing exterior shopfront and counter"
                 className="w-full h-56 sm:h-64 object-cover object-center"
                 loading="lazy"
@@ -101,7 +101,7 @@ export default function About() {
             {/* Real Signboard Photo */}
             <div className="rounded-xl border border-brand-border overflow-hidden bg-brand-surface shadow-card">
               <img
-                src="/assets/branding/shop-banner.jpeg"
+                src="./assets/branding/shop-banner.jpeg"
                 alt="Official signboard of Subho Mobile Repairing"
                 className="w-full h-32 object-cover object-center"
                 loading="lazy"
