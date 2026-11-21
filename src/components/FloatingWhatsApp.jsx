@@ -7,7 +7,7 @@ export default function FloatingWhatsApp() {
     <aside aria-label="WhatsApp quick chat" className="fixed bottom-5 right-5 z-40 flex items-center group">
       {/* Tooltip on hover */}
       <div className="hidden sm:block mr-2.5 px-3 py-1.5 rounded-md bg-brand-navy text-white text-xs font-medium shadow-card opacity-0 group-hover:opacity-100 transition-opacity duration-200 pointer-events-none whitespace-nowrap">
-        <span>WhatsApp Subha Patar</span>
+        <span>WhatsApp Subhojit Patar</span>
       </div>
 
       <a

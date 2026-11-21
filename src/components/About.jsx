@@ -13,7 +13,7 @@ export default function About() {
             About the Shop
           </span>
           <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-brand-navy mt-1 tracking-tight">
-            Subha Patar &bull; Owner, Subho Mobile Repairing
+            Subhojit Patar &bull; Owner, Subho Mobile Repairing
           </h2>
           <p className="text-brand-muted text-base sm:text-lg mt-3 leading-relaxed">
             A local mobile repairing shop focused on honest diagnosis, careful device handling, and practical repairs for everyday smartphones.
@@ -30,7 +30,7 @@ export default function About() {
                 <strong className="text-brand-navy font-semibold">{BUSINESS_INFO.name}</strong> is owned and operated by <strong className="text-brand-navy font-semibold">{BUSINESS_INFO.owner}</strong>. The shop handles all routine and complex smartphone issues, from cracked glass and unresponsive touchscreens to battery degradation and charging faults.
               </p>
               <p className="text-brand-muted">
-                Instead of dealing with third-party customer service representatives or automated systems, customers visit the shop counter and speak directly with Subha Patar. Every smartphone is evaluated carefully so you know exactly what is wrong and what the repair entails.
+                Instead of dealing with third-party customer service representatives or automated systems, customers visit the shop counter and speak directly with Subhojit Patar. Every smartphone is evaluated carefully so you know exactly what is wrong and what the repair entails.
               </p>
             </div>
 
@@ -42,7 +42,7 @@ export default function About() {
                   <span>Direct Owner Interaction</span>
                 </div>
                 <p className="text-xs text-brand-muted leading-relaxed">
-                  Subha Patar Personally inspects your phone, explains the repair, and answers your questions directly.
+                  Subhojit Patar personally inspects your phone, explains the repair, and answers your questions directly.
                 </p>
               </div>
 
@@ -64,7 +64,7 @@ export default function About() {
                 className="inline-flex items-center gap-2 text-sm font-semibold text-brand-navy hover:text-brand-blue transition-colors"
               >
                 <Phone className="w-4 h-4 text-brand-accent" />
-                <span>Call Subha Patar: {BUSINESS_INFO.phone}</span>
+                <span>Call Subhojit Patar: {BUSINESS_INFO.phone}</span>
               </a>
 
               <span className="text-brand-border hidden sm:inline">&bull;</span>

@@ -13,7 +13,7 @@ export default function Hero() {
             
             {/* Business Badge */}
             <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-md bg-brand-surface border border-brand-border text-xs font-semibold text-brand-navy tracking-wide">
-              <span>Subho Mobile Repairing &bull; Owner: Subha Patar</span>
+              <span>Subho Mobile Repairing &bull; Owner: Subhojit Patar</span>
             </div>
 
             {/* Headline */}
@@ -71,14 +71,14 @@ export default function Hero() {
               <div className="overflow-hidden rounded-lg aspect-[4/3] bg-brand-surface relative">
                 <img
                   src="./assets/shop/owner-with-customers.jpeg"
-                  alt="Subha Patar assisting customers at the service counter of Subho Mobile Repairing"
+                  alt="Subhojit Patar assisting customers at the service counter of Subho Mobile Repairing"
                   className="w-full h-full object-cover object-top"
                   loading="eager"
                 />
               </div>
               <div className="p-3 text-left">
                 <p className="text-xs font-semibold text-brand-navy">
-                  Subha Patar at Subho Mobile Repairing Service Counter
+                  Subhojit Patar at Subho Mobile Repairing Service Counter
                 </p>
                 <p className="text-xs text-brand-muted mt-0.5">
                   Real in-shop assistance with smartphone display, battery, and hardware repair.

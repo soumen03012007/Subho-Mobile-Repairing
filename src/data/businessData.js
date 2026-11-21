@@ -1,10 +1,10 @@
 export const BUSINESS_INFO = {
   name: "Subho Mobile Repairing",
-  owner: "Subha Patar",
+  owner: "Subhojit Patar",
   phone: "7908504804",
   phoneDisplay: "+91 7908504804",
   telLink: "tel:+917908504804",
-  whatsappLink: "https://wa.me/917908504804?text=Hello%20Subha%20Patar%2C%20I%20need%20help%20with%20my%20mobile%20phone%20repair.",
+  whatsappLink: "https://wa.me/917908504804?text=Hello%20Subhojit%20Patar%2C%20I%20need%20help%20with%20my%20mobile%20phone%20repair.",
   mapsLink: "https://maps.app.goo.gl/p3fb3oxp4vjY1RQd9?g_st=awb",
   businessType: "Mobile Phone Repair & Maintenance",
   headline: "Mobile Repairing You Can Trust.",
@@ -73,7 +73,7 @@ export const SERVICES = [
 export const WHY_CHOOSE_US = [
   {
     title: "Speak Directly with the Owner",
-    description: "You deal directly with Subha Patar. No middlemen, no call centres. Get honest advice about whether your phone is worth repairing.",
+    description: "You deal directly with Subhojit Patar. No middlemen, no call centres. Get honest advice about whether your phone is worth repairing.",
     icon: "UserCheck"
   },
   {
@@ -104,10 +104,10 @@ export const GALLERY_ITEMS = [
   },
   {
     id: 2,
-    title: "Owner Subha Patar Assisting Customers",
+    title: "Owner Subhojit Patar Assisting Customers",
     category: "Shop & Workshop",
     image: "./assets/shop/owner-with-customers.jpeg",
-    description: "Subha Patar consulting directly with customers at the shop service counter.",
+    description: "Subhojit Patar consulting directly with customers at the shop service counter.",
     tag: "Owner & Counter"
   },
   {

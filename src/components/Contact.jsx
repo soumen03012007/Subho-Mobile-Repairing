@@ -16,7 +16,7 @@ export default function Contact() {
             Contact & Location Details
           </h2>
           <p className="text-brand-muted text-base sm:text-lg mt-3 leading-relaxed">
-            Call or message Subha Patar directly, or visit our shop counter using the Google Maps directions below.
+            Call or message Subhojit Patar directly, or visit our shop counter using the Google Maps directions below.
           </p>
         </div>
 
@@ -99,7 +99,7 @@ export default function Contact() {
             {/* Note */}
             <div className="p-4 rounded-lg bg-white border border-brand-border text-xs text-brand-muted leading-relaxed">
               <p>
-                <strong>Tip:</strong> If you are looking for specific replacement parts such as curved AMOLED displays or original battery replacements, feel free to call or WhatsApp Subha Patar beforehand to check part availability.
+                <strong>Tip:</strong> If you are looking for specific replacement parts such as curved AMOLED displays or original battery replacements, feel free to call or WhatsApp Subhojit Patar beforehand to check part availability.
               </p>
             </div>
 
